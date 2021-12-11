@@ -1,2 +1,3 @@
-# Password-Generator
-Complex 16-char password Generator with JS
+<p align='center'>
+    <img src='SS.gif'>
+</p>
