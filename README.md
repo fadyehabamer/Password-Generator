@@ -1,3 +1,3 @@
 <p align='center'>
-    <img src='SS.gif'>
+<img src='SS.gif'>
 </p>
